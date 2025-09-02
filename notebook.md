@@ -1,11 +1,46 @@
 ## Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
+- [Flutter-Notes](Flutter-Notes)
+  - [What-is-Flutter](What-is-Flutter)
   - [Practice](#practice)
-- [Day 2](#day-2)
+- [Key-Terms-and-Definitions](Key-Terms-and-Definitions)
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
+
+
+
+
+
+## Flutter Notes
+
+### What is Flutter?
+- Definition:
+- Why is it useful?
+
+---
+
+### Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           |     flutter                                             |                                           |
+| MaterialApp      |            root of app|                                           |
+| Scaffold         |                       layout                           |                                           |
+| StatelessWidget  | paths to navigate between screens                     |                                           |
+| StatefulWidget   |                                  manges screen transitions                |                                           |
+| Navigator        | manges screen transitions                                    |
+| AppBar           |top navigation bar                                                     |                                           |
+| Column           |          vertical                                        |                                           |
+| Row              |horizontal                                                  |                                           |
+| Container        |wraps-content-with-padding-margin-or-color                                                  |                                           |
+| Text             |displays-text/                                                  |                                           |
+| Image.network    |displayes-images-from-url                                                  |                                           |
+| Padding    |      adds-space-around-widget              |                     |
+| Center      |     center-its-child               |                     |
+
+---
+
+### Layout and Design Widgets
 
 
 
