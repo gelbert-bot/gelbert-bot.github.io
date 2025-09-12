@@ -2,6 +2,7 @@
 - [Flutter-Notes](Flutter-Notes)
   - [What-is-Flutter](What-is-Flutter)
   - [Practice](#practice)
+  - [Code Defintions](#Code-Defintions)
 - [Key-Terms-and-Definitions](Key-Terms-and-Definitions)
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
@@ -38,9 +39,39 @@
 | Padding    |      adds-space-around-widget              |                     |
 | Center      |     center-its-child               |                     |
 
----
 
-### Layout and Design Widgets
+## Code Defintions
+
+
+---
+| Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
+|------|------------|--------------------------|-------------------|-------------|
+|variable| A named container used to store a value that may change. | `var x = 5;` |  |  |
+|constant| A fixed value that cannot change once set. | `const PI = 3.14;` |  |  
+|data type| The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
+|string| A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
+|integer| Whole number values. | `int age = 16;` |  |  |
+|double| Number values with decimals. | `double age = 16.2;` |  |  |
+|boolean| A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
+|list| A collection of values in a specific order. | `List<String> names = [];` |  |  |
+|null| A special value that means “nothing.” | `String? name = null;` |  |  |
+|function| A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
+|parameter| The information passed into a function to change how it works. | `greet(String name)` |  |  |
+|return| The result a function gives back. | `return total;` |  |  |
+|scope| Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
+|class| Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
+|object| A specific version of a class. | `Dog myDog = Dog();` |  |  |
+|property| A variable that belongs to a class/object. | `String name;` |  |  |
+|method| A function that belongs to a class. | `void bark() {}` |  |  |
+|contructor| A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+|abstraction| Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+|override| Changing how a built-in or inherited function behaves. | `@override` |  |  |
+|void| A function that does not return a value. | `void printMessage() {}` |  |  |
+
+
+
+### Layout and Design Widget
+
 
 
 
