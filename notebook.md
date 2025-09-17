@@ -4,49 +4,38 @@
   - [Practice](#practice)
   - [Code Defintions](#Code-Defintions)
 - [Key-Terms-and-Definitions](Key-Terms-and-Definitions)
-
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
-
-
-
-
 
 ## Flutter Notes
 
 ### What is Flutter?
 - Definition:
 - Why is it useful?
-
 ---
 
 ### Key Terms and Definitions
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |     flutter                                             |                   gurt                        |
-| MaterialApp      |            root of app|                                           |
-| Scaffold         |                       layout                           |                                           |
-| StatelessWidget  | paths to navigate between screens                     |                                           |
-| StatefulWidget   |                                  manges screen transitions                |                                           |
-| Navigator        | manges screen transitions                                    |
-| AppBar           |top navigation bar                                                     |                                           |
-| Column           |          vertical                                        |                                           |
-| Row              |horizontal                                                  |                                           |
-| Container        |wraps-content-with-padding-margin-or-color                                                  |                                           |
-| Text             |displays-text/                                                  |                                           |
-| Image.network    |displayes-images-from-url                                                  |                                           |
-| Padding    |      adds-space-around-widget              |                     |
-| Center      |     center-its-child               |                     |
-
-
+| Widget           |     flutter                                             |             |
+| MaterialApp      |            root of app|                                     
+| Scaffold         |                       layout                           |                 |
+| StatelessWidget  | paths to navigate between screens                     |                  |
+| StatefulWidget   |                                  manges screen transitions      |                   |
+| Navigator        | manges screen transitions                           
+| AppBar           |top navigation bar                                                                  |
+| Column           |          vertical                                        |                  |
+| Row              |horizontal                                                  |     
+| Container        |wraps-content-with-padding-margin-or-color             |                            |
+| Text             |displays-text/                                                              |
+| Image.network    |displayes-images-from-url                                 |                  |
+| Padding    |      adds-space-around-widget                   |
+| Center      |     center-its-child               |        |
 ## Code Defintions
-
-
 ---
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
-|variable| A named container used to store a value that may change. | `var x = 5;` |  |  |
+|variable| A named container used to store a value that may change. | `var x = 5;` |       |  |
 |constant| A fixed value that cannot change once set. | `const PI = 3.14;` |  |  
 |data type| The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
 |string| A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
@@ -71,9 +60,6 @@
 
 
 ### Layout and Design Widget
-
-
-
 
 
 
