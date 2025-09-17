@@ -24,7 +24,7 @@
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |     flutter                                             |                                           |
+| Widget           |     flutter                                             |                   gurt                        |
 | MaterialApp      |            root of app|                                           |
 | Scaffold         |                       layout                           |                                           |
 | StatelessWidget  | paths to navigate between screens                     |                                           |
