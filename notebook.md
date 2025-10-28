@@ -59,6 +59,22 @@
 
 
 
+
+
+|scanner| creates a scanner object to take input from user |scanner in = new scanner(system.in);| | |
+|import scanner| gives access to scanner class, required at top| import java.util.scanner; | | |
+| print line statement |prints whatrs in the aprenthesis, adds line after | system.out.println(" "); | | |
+| input nextline |reads in a string from the user |input.nextling(); | | |
+| pring statement| prints the conent in the parenthesis | system.out.print(" ");| | |
+| input nextInt | reads in a string from teh user | input.nextint(); | | |
+| input nextdouble | reads in double (decimal) from the user | input.nextdouble(); | | |
+| input next boolean | reads in a boolean (true/false) from teh user | input.nextboolean(): | | |
+| arthmetic operators | -   *  ?  % (modules, returns the remaninder from the dividing) | | | |
+| compound operators ( applies the result to the variable) | +=  -+  *=  /+  %+  ++ (adds 1) | | | |
+
+
+
+
 ### Layout and Design Widget
 
 
