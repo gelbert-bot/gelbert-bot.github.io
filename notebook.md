@@ -56,21 +56,18 @@
 |abstraction| Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 |override| Changing how a built-in or inherited function behaves. | `@override` |  |  |
 |void| A function that does not return a value. | `void printMessage() {}` |  |  |
-
-
-
-
-
-|scanner| creates a scanner object to take input from user |scanner in = new scanner(system.in);| | |
-|import scanner| gives access to scanner class, required at top| import java.util.scanner; | | |
+| Algorithms | Define step by step processes to follow when completing a task or solving a problem | no syntax | Make a grilled cheese | Verify user |
+| Sequencing | Define an order for when steps in an algorithm are completed | Follows 1, 2, 3 | which step comes first in making a grilled cheese | Get bread, add butter, add cheese |
+|scanner| creates a scanner object to take input from user |scanner in = new scanner(system.in);| | | | 
+|import scanner| gives access to scanner class, required at top| import java.util.scanner; | | | |
 | print line statement |prints whatrs in the aprenthesis, adds line after | system.out.println(" "); | | |
-| input nextline |reads in a string from the user |input.nextling(); | | |
-| pring statement| prints the conent in the parenthesis | system.out.print(" ");| | |
-| input nextInt | reads in a string from teh user | input.nextint(); | | |
-| input nextdouble | reads in double (decimal) from the user | input.nextdouble(); | | |
-| input next boolean | reads in a boolean (true/false) from teh user | input.nextboolean(): | | |
-| arthmetic operators | -   *  ?  % (modules, returns the remaninder from the dividing) | | | |
-| compound operators ( applies the result to the variable) | +=  -+  *=  /+  %+  ++ (adds 1) | | | |
+| input nextline |reads in a string from the user |input.nextling(); | | | |
+| pring statement| prints the conent in the parenthesis | system.out.print(" ");| | | |
+| input nextInt | reads in a string from teh user | input.nextint(); | | | |
+| input nextdouble | reads in double (decimal) from the user | input.nextdouble(); | | | |
+| input next boolean | reads in a boolean (true/false) from teh user | input.nextboolean(): | | | |
+| arthmetic operators | -   *  ?  % (modules, returns the remaninder from the dividing) | | | | 
+| compound operators ( applies the result to the variable) | +=  -+  *=  /+  %+  ++ (adds 1) | | | | 
 
 
 
