@@ -72,6 +72,7 @@
 
 
 
+
 ### Layout and Design Widget
 
 
@@ -132,6 +133,17 @@ public class Hello {
     }
 }
 ```
+
+[string notes}(#string-notes)
+### String Notes
+-Strings have indies (plurak for index,) which start at 0. "Hello" has indices 0(H), 1 (e), 2(1), 3(1), 4(o)
+-Final index location is length-1
+
+
+
+[String Methods Table}(#string-method-table)
+### String Methods Table
+<img width="1207" height="399" alt="image" src="https://github.com/user-attachments/assets/9fa72396-b70f-4abf-ba1f-b39821270050" />
 
 🧾 Lists
 When to use: Organize steps, notes, or key points.
